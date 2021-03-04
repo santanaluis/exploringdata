@@ -31,3 +31,10 @@ web site</a>:
 </ol>
 
 NOTE: This text was copied and pasted from rpeng readme file in his original repository, as I couldn't do any commit on the forked repository.
+
+
+## Files in this repo
+
+File "exploring_dataR" contains the code to download and handle data set. I creates "electric_data.csv"
+
+Files "plot1.R", "plot2.R","plot3.R", "plot4.R"; create # 1,2,3 and 4 plots that are included as .png files.
